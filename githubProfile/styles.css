@@ -94,3 +94,11 @@ input:focus {
   margin-bottom: 0.5rem;
   text-decoration: none;
 }
+
+.info {
+  margin-top: 8px;
+}
+
+#repos {
+  margin-top: 12px;
+}
